@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="81.489" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Amazon Ecommerce website" name="User Signin and Search for a product and Add it to cart" time="81.273">
+<system-out><![CDATA[
+Given Launch the Application................................................passed
+And Check for list of broken links..........................................passed
+And Click on signin button..................................................passed
+When Enter the email and Click on Continue..................................passed
+And Enter Password and Click on SignIn......................................passed
+Then User loggedIn Successfully.............................................passed
+When User Search for product "iphone 16"....................................passed
+Then User clicks on Add to cart.............................................passed
+]]></system-out>
+</testcase>
+</testsuite>
